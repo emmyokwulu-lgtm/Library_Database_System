@@ -104,6 +104,7 @@ Queries to organize, paginate, and refine query results:
 - Skip the first 5 books and display the next 5
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/9d9d466b54b1cd045674622534a4b7e4dcab6d55/Next%205%20books%20after%20the%20first%205.JPG)
 - Show the 10 most recent loans not yet returned
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/9cbb8ec65060348730b458696a9e2d1d5b37e59f/10%20most%20recent%20loans%20not%20returned.JPG)
 
 
 ## How To Run
