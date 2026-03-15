@@ -100,6 +100,7 @@ Queries to organize, paginate, and refine query results:
 - List distinct book genres
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/ca22e8726517064a37509dca0f99820a0abc165e/Distinct%20genres.JPG)
 - Get top 5 most recent members
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/dab0c316593740ce72175bd59a8b584eaf027eb5/Top%205%20most%20recent%20members.JPG)
 - Skip the first 5 books and display the next 5
 - Show the 10 most recent loans not yet returned
 
