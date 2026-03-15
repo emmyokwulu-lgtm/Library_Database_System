@@ -102,6 +102,7 @@ Queries to organize, paginate, and refine query results:
 - Get top 5 most recent members
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/dab0c316593740ce72175bd59a8b584eaf027eb5/Top%205%20most%20recent%20members.JPG)
 - Skip the first 5 books and display the next 5
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/9d9d466b54b1cd045674622534a4b7e4dcab6d55/Next%205%20books%20after%20the%20first%205.JPG)
 - Show the 10 most recent loans not yet returned
 
 
