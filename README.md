@@ -79,6 +79,7 @@ Queries for extracting and filtering data:
 - Find all loans made on a specific data
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/89eb9617acbaae57b043d806fabac8365b45ed58/Loans%20On%20Specific%20Dates.JPG)
 - display all books with more than 3 available copies
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/118277da5224c22d6324c24d90fd3088d6d6cd68/Books%20with%20over%203%20available%20copies.JPG)
 
 Queries to demonstrate the use of comparisom and logical operators in extracting analytical insights:
 
