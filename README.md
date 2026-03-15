@@ -1,4 +1,4 @@
-# Library Database Management System
+# Library Database Management System Project
 
 ## Overview
 This project shows how to design, build and query a structured library database using SQL only.
