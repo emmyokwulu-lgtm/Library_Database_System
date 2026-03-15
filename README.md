@@ -73,6 +73,7 @@ This project demonstrates several SQL concepts:
 Queries for extracting and filtering data:
 
 - View all books
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/48e986a63448e656441e24f62a51641b25f27e92/Shot%201.JPG)
 - Show all registered members
 - Find all loans made on a specific data
 - display all books with more than 3 available copies
