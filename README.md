@@ -90,6 +90,7 @@ Queries to demonstrate the use of comparisom and logical operators in extracting
 - Books that are either Fiction or Mystery
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/343a7cc877d2071627cc31ccc678ae1be7f1723b/Books%20that%20are%20fiction%20or%20mystery.JPG)
 - Loans that have not been returned
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/9ab599323ca0083fbd468d925c825bd7f984c505/Loans%20not%20yet%20returned.JPG)
 - Members who joined after 2020 and have borrowed books
 
 Queries to organize, paginate, and refine query results:
